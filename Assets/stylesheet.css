@@ -28,6 +28,7 @@ body {
   }
   
   nav ul {
+
     display: flex;
     list-style: none;
     justify-content: space-between;
@@ -66,6 +67,7 @@ body {
 
   .img2:hover{
     background-color: bisque;
+    transform: scale(1.2);
   }
   .flex-container {
     display: flex;

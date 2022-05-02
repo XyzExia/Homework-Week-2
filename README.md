@@ -4,6 +4,6 @@
 - most of the text is dummy text.
 - added the hover function on the head nav bar 
 - added the transform on the place holders for the projects.
-
-I didnt really focus on style so it kinda looks a bit ulgy tbh since the main focus was trying to get the flex boxes to work as intented. That and trying to get animations/ and styling to fit well.
+- updated to include newer projects 
+- added bootstrap
 

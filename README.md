@@ -1,9 +1,15 @@
-# Homework-Week-2
+# Updated Portfolio Page
 
-- added various things, mostly just messing with the flex box and having them adjsut with the screen sizes.
-- most of the text is dummy text.
-- added the hover function on the head nav bar 
-- added the transform on the place holders for the projects.
-- updated to include newer projects 
-- added bootstrap
+This is a updated portfolio page containing some of the things I have been involved in. 
+There will be many updates to come but this current version 2.0 of this page.
+Its basic and designed to showcase some of the fun and wacky things done during the course of the bootcamp
 
+# Deployed Links
+
+You can see the deployed page with the link below 
+
+https://xyzexia.github.io/Zekun-Chen-Porfolio-Page/
+
+# Heres a little preview of the page 
+
+ <a href="https://xyzexia.github.io/Zekun-Chen-Porfolio-Page/"> <img src='./HW2/Assets/page preview.PNG' </a>

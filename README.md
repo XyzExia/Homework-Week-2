@@ -10,3 +10,6 @@ You can see the deployed page with the link below
 
 https://xyzexia.github.io/Zekun-Chen-Porfolio-Page/
 
+# Heres a little preview of the page 
+
+ <a href="https://xyzexia.github.io/Zekun-Chen-Porfolio-Page/"> <img src='./HW2\Assets\page preview.PNG' </a>

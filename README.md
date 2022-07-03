@@ -17,4 +17,4 @@ https://xyzexia.github.io/Zekun-Chen-Porfolio-Page/
 
 # Heres a little preview of the page 
 
- <a href="https://xyzexia.github.io/Zekun-Chen-Porfolio-Page/"> <img src= "Assets/v3 update"> </a>
+ <a href="https://xyzexia.github.io/Zekun-Chen-Porfolio-Page/"> <img src= "Assets/v3 update.PNG"> </a>

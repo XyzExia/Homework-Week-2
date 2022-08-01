@@ -13,8 +13,5 @@ In the page you find links to projects and sites that I've completed.
 
 You can see the deployed page with the link below 
 
-https://xyzexia.github.io/Zekun-Chen-Porfolio-Page/
+https://xyzexia.github.io/Profolio-Page-React/#about
 
-# Heres a little preview of the page 
-
- <a href="https://xyzexia.github.io/Zekun-Chen-Porfolio-Page/"> <img src= "Assets/v3 update.PNG"> </a>
